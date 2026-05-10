@@ -1,0 +1,12 @@
+output.png
+images/
+*.tmp
+node_modules/
+video/
+feishu-bridge/
+slides/
+shared/
+.claude/
+*.py
+test-*.ps1
+CLAUDE.md
